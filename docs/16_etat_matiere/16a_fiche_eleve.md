@@ -98,7 +98,8 @@ Transfert de chaleur par le **mouvement d'un fluide** (liquide ou gaz).
 
 **Exemple :** L'eau chaude monte dans une casserole, l'eau froide descend : il se crée un courant de convection.
 
-**En cosmétique :** Bain-marie (l'eau chaude circule et chauffe le récipient intérieur).
+**En cosmétique :** Bain-marie (l'eau chaude circule et chauffe le récipient intérieur). Mais le bain-marie combine aussi de la conduction (contact entre l'eau et le récipient).
+
 
 #### 3. Rayonnement
 
@@ -169,12 +170,20 @@ Sur le diagramme (ou sur une copie), placez les points suivants et indiquez l'é
 
 
 Indiquez sur chaque flèche le nom du changement d'état :
+
 - Solide → Liquide : _______
+
 - Liquide → Gaz : _______
+
 - Liquide → Solide : _______
+
 - Gaz → Liquide : _______
+
 - Solide → Gaz : _______
+
 - Gaz → Solide : _______
+
+
 
 ### 1.3 – Interpréter le rôle de la pression atmosphérique
 
