@@ -150,7 +150,7 @@ Il existe **trois modes** de transfert thermique :
 **Exemple :** L'eau chaude monte dans une casserole, l'eau froide descend.
 
 **En cosmétique :**
-- **Bain-marie** : l'eau chaude circule et chauffe le récipient intérieur
+- **Bain-marie** : l'eau chaude circule et chauffe le récipient intérieur. Mais le bain-marie combine aussi de la conduction (contact entre l'eau et le récipient).
 - **Agitation** dans un réacteur : accélère le transfert par convection forcée
 - **Ventilation** d'une étuve : l'air chaud circule pour sécher
 
