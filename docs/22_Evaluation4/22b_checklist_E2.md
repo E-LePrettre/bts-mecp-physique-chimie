@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 22 📋 Checklist E2 – Évaluation n°4
 ---
 

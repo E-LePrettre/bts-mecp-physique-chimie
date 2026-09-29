@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 21 📝 Fiche élève
 ---
 
@@ -369,24 +369,13 @@ Complétez le tableau récapitulatif :
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](../Methodologie/05_fiche_methode/)
-
----
-
-## 📺 Pour réviser en vidéo
-
-🎬 **[La conductivité des solutions](https://www.youtube.com/watch?v=example1)** – 8 min
-*Comprendre σ, ions, porteurs de charge.*
-
-🎬 **[Émulsions H/E et E/H](https://www.youtube.com/watch?v=example2)** – 6 min
-*Déterminer le type d'émulsion par conductivité.*
-
-🎬 **[La CMC d'un tensioactif](https://www.youtube.com/watch?v=example3)** – 7 min
-*Formation des micelles, rupture de pente sur σ = f(C).*
+➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
 
 ---
+
+
 
 ## 🔗 Lien avec la suite
 

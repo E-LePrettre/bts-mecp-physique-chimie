@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 04 📝 Fiche élève
 ---
 
@@ -425,21 +425,8 @@ Dans la **séance suivante (S05 – TP1)**, vous mettrez en pratique :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 04 – Choisir et justifier une dilution**](../Methodologie/04_fiche_methode/)
+➡️ [**Fiche méthode 04 – Choisir et justifier une dilution**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/04_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Réaliser une dilution – Unisciel](https://www.youtube.com/watch?v=K6KLg_R0GKE)** – 4 min
-*Protocole complet avec explication des calculs.*
-
-🎬 **[Facteur de dilution – Explication](https://www.youtube.com/watch?v=3XGXfKJqPtk)** – 3 min
-*Comprendre ce que signifie "dilution au 1/10".*
-
-🎬 **[Solution mère, solution fille](https://www.youtube.com/watch?v=vqX9QXMJ8bQ)** – 5 min
-*Vocabulaire et méthode de préparation.*
-
-💡 **Conseil** : Regardez la vidéo sur le protocole avant le TP1 pour vous familiariser avec la manipulation !

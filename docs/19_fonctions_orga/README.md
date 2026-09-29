@@ -46,9 +46,9 @@ Cette séance introduit les **fonctions organiques** (oxygénées, azotées, sou
 
 ### 🔧 Fiches méthode associées
 
-➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](../Methodologie/08_fiche_methode/) **(ESSENTIEL – à utiliser intensivement)**
+➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/) **(ESSENTIEL – à utiliser intensivement)**
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -117,18 +117,6 @@ Cette séance introduit les **fonctions organiques** (oxygénées, azotées, sou
 
 
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Les fonctions organiques en chimie](https://www.youtube.com/watch?v=example1)** – 10 min
-*Comprendre alcool, acide, ester, amine, amide.*
-
-🎬 **[Liaisons hydrogène : comment ça marche ?](https://www.youtube.com/watch?v=example2)** – 6 min
-*Visualiser les liaisons H et leur rôle.*
-
-🎬 **[Les peptides : structure et fonction](https://www.youtube.com/watch?v=example3)** – 8 min
-*Liaison peptidique, structure des protéines.*
-
----
 
 ## 🔗 Navigation
 
@@ -136,15 +124,4 @@ Cette séance introduit les **fonctions organiques** (oxygénées, azotées, sou
 
 ➡️ Séance suivante : [S20 – TP3 Dossier moléculaire (E2)](../20_TP3_lewis/)
 
----
-
-## 🔗 Liens avec la progression
-
-| Séance | Lien |
-|--------|------|
-| **S17** | Représentations → ici : reconnaître les fonctions sur formules topologiques |
-| **S18** | Isomérie de fonction → alcool vs éther, aldéhyde vs cétone |
-| **S20** | TP3 dossier moléculaire → identifier les fonctions dans un contexte E2 |
-| **S21** | Réactions chimiques → réactivité selon les fonctions (estérification, hydrolyse) |
-| **S22** | Évaluation E2 → exploiter des données sur des molécules avec différentes fonctions |
 

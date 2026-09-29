@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 20 📝 Fiche élève
 ---
 
@@ -462,9 +462,9 @@ Justifier avec **au moins 2 arguments** (groupements, polarité, interactions...
 
 ## 🔗 Méthode
 
-➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](../Methodologie/05_fiche_methode/)
+➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 
 

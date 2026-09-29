@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 24 📖 Trace écrite
 ---
 
@@ -256,22 +256,12 @@ La loi de Beer-Lambert est valable si :
 - **Courbe d'étalonnage** – **Lecture graphique**
 - **Conforme, non conforme** – **Cahier des charges**
 
----
 
-## 🔗 Lien avec la suite de la progression
-
-| Séance | Réinvestissement |
-|--------|------------------|
-| **S03** | Concentration massique → ici : dosage par spectrophotométrie |
-| **S05** | Échelle de teinte → ici : courbe d'étalonnage (même logique, plus précis) |
-| **S23** | Ondes mécaniques (US) → ici : ondes EM (c = λ × f identique) |
-| **COSMÉTO S24** | Preuves d'efficacité → documents instrumentaux (spectres) |
-| **COSMÉTO S25** | Analyse résultats expérimentaux → dosage spectrophotométrique |
 
 ---
 
 ## 🔧 Fiches méthode associées
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

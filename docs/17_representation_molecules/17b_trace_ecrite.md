@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 17 📖 Trace écrite
 ---
 
@@ -393,6 +393,6 @@ Origine : Olive ou canne à sucre (squalane végétal)
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](../Methodologie/08_fiche_methode/) *(sera utilisée en S19)*
+➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/) *(sera utilisée en S19)*

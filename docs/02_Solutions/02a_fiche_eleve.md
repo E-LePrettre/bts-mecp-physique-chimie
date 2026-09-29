@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 02 📝 Fiche élève
 ---
 
@@ -417,21 +417,9 @@ Dans la **séance suivante (S03)**, nous apprendrons à **quantifier** les solut
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
 
-🎬 **[Dissolution du sel – CEA](https://www.youtube.com/watch?v=xdedxfhcpWo)** – 2 min
-*Animation montrant ce qui se passe au niveau moléculaire lors d'une dissolution.*
-
-🎬 **[Solubilité et miscibilité – Unisciel](https://www.youtube.com/watch?v=2BHlq_bWF8Q)** – 5 min
-*Explication claire de ces deux notions avec des exemples concrets.*
-
-🎬 **[Pourquoi l'huile et l'eau ne se mélangent pas ?](https://www.youtube.com/watch?v=PVL24HAesnc)** – 3 min
-*Comprendre la non-miscibilité au niveau moléculaire.*
-
-💡 **Conseil** : Si vous confondez encore "dissolution" et "fusion", regardez la première vidéo !

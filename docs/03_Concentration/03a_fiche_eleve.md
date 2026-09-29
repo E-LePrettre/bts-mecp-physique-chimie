@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 03 📝 Fiche élève
 ---
 
@@ -410,19 +410,8 @@ Dans la **séance suivante (S04)**, nous apprendrons à **modifier** une concent
 
 ## 🔧 Outil méthodologique associé
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
 
-🎬 **[La concentration massique – Unisciel](https://www.youtube.com/watch?v=2BHlq_bWF8Q)** – 4 min
-*Définition, formule et exemples de calculs.*
 
-🎬 **[Convertir des unités (mL, L, g)](https://www.youtube.com/watch?v=K7_q4cLG4yM)** – 3 min
-*Maîtriser les conversions indispensables pour les calculs.*
-
-🎬 **[Calculer une concentration pas à pas](https://www.youtube.com/watch?v=QhXm6HfxMlA)** – 6 min
-*Méthode complète avec exemples variés.*
-
-💡 **Conseil** : Si vous avez des difficultés avec les conversions mL → L, regardez d'abord la vidéo sur les unités !

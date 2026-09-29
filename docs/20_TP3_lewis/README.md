@@ -44,9 +44,9 @@ Cette séance est un **TP d'exploitation E2** qui synthétise les notions de S12
 
 ### 🔧 Fiches méthode associées
 
-➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](../Methodologie/05_fiche_methode/)
+➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -111,41 +111,7 @@ Cette séance est un **TP d'exploitation E2** qui synthétise les notions de S12
 
 ---
 
-## ⚠️ Conseils pédagogiques
 
-### Points de vigilance
-
-- **Lecture de Lewis fournie** : vérifier doublets non liants vs doublets liants
-- **Donneur/accepteur** : donneur = H lié à O/N, accepteur = O/N avec doublets
-- **Mixte vs hydrophile** : éthanol est mixte (pas hydrophile pur)
-- **Tableau de synthèse** : cohérence entre colonnes (polarité → interactions → phase → excipient)
-
-### Différenciation
-
-- **Groupe fragile** : fournir tableau récapitulatif des fonctions (FM08) ; guider la lecture des documents
-- **Groupe avancé** : ajouter question sur isomérie (2 isomères, lequel plus soluble ?) ; demander de proposer 2 excipients différents
-
-### Gestion du temps
-
-- **1h15** : Parties A-B-C-D + tableau de synthèse
-- **15 min** : Synthèse détaillée (Q12-13)
-- **20 min** : Mise en commun collective
-
----
-
-## 📊 Barème indicatif (sur 20)
-
-| Partie | Points | Compétence |
-|--------|:------:|------------|
-| Partie A (Q1-2) | /2 | Lire documents |
-| Partie B (Q3-6) | /4 | Interpréter Lewis |
-| Partie C (Q7-10) | /5 | Polarité + interactions |
-| Partie D (Q11) | /0,5 | Exploiter document |
-| Tableau de synthèse | /4 | Synthétiser (1 pt/actif) |
-| Synthèse détaillée (Q12-13) | /3 | Argumenter + décider (E2) |
-| **TOTAL** | **/20** | |
-
----
 
 ## 🔗 Navigation
 
@@ -153,77 +119,4 @@ Cette séance est un **TP d'exploitation E2** qui synthétise les notions de S12
 
 ➡️ Séance suivante : [S21 – Conductivite](../21_conductivite/)
 
----
 
-## 🔗 Liens avec la progression
-
-| Séance | Réinvestissement dans le TP |
-|--------|----------------------------|
-| **S12** | Lewis (doublets, Q3-5) |
-| **S13** | Polarité (Q6-7) |
-| **S14** | Interactions (Q9-10) |
-| **S15** | Solubilité (Q10, tableau) |
-| **S17** | Représentations (Q1-2) |
-| **S18** | Isomérie (implicite : structures différentes) |
-| **S19** | Fonctions (Q2, identification –OH, –COOH...) |
-
----
-
-## 📋 Correspondance Référentiel
-
-| Thème du référentiel | Couverture dans S20 |
-|---------------------|---------------------|
-| Interactions moléculaires | ✅ London, dipôle-dipôle, liaison H |
-| Polarité | ✅ Hydrophile, lipophile, mixte |
-| Solubilité | ✅ Relier structure à solubilité |
-| Fonctions organiques | ✅ Identifier sur formules |
-| Posture E2 | ✅ Exploiter docs, argumenter, décider |
-
----
-
-## 💡 Exemple de posture E2 attendue (Q12)
-
-**Question :** Cet actif est-il plus adapté à une formulation aqueuse ou huileuse ?
-
-**Exemple de réponse pour glycérol (actif A) :**
-
-> *Le glycérol (actif A) est **adapté à une formulation aqueuse**. D'après le **Document 1**, il possède **3 fonctions alcool** (–OH) sur une chaîne courte (C3). Ces groupes –OH sont des **groupements polaires** (Document 3 et 5) qui peuvent former de **nombreuses liaisons hydrogène** avec les molécules d'eau (Document 2 et 4). Résultat : le glycérol est très **hydrophile** et se dissout facilement dans l'eau. Le **Document 5** confirme qu'un actif avec « groupements polaires » et « bonne affinité avec la phase aqueuse » correspond bien au glycérol. Je recommande donc une **formulation aqueuse** : crème, sérum, lotion.*
-
-**Critères de réussite :**
-- ✅ Au moins 2 documents cités explicitement
-- ✅ Polarité + interactions mobilisées
-- ✅ Choix professionnel clair (« Je recommande... »)
-- ✅ Argumentation structurée (constat → analyse → décision)
-
----
-
-## 📝 Remarques pédagogiques
-
-### Ce qui fonctionne bien
-
-- Le **tableau de synthèse** structure efficacement la réflexion
-- La **Lewis fournie** (pas de construction) est bien adaptée au niveau
-- Le choix de l'actif pour la synthèse détaillée permet la différenciation
-- Les 4 actifs couvrent bien le spectre hydrophile-lipophile
-
-### Pistes d'amélioration pour l'année prochaine
-
-- Ajouter une question sur l'isomérie (2 isomères, lequel plus soluble ?)
-- Proposer une version "allégée" (2 actifs au lieu de 4) pour élèves en difficulté
-- Fournir une grille d'auto-évaluation posture E2
-- Ajouter un actif "peptide" pour mobiliser S19 (liaison peptidique)
-
----
-
-## 🎯 Objectifs pédagogiques atteints
-
-À l'issue du TP, les élèves sont capables de :
-
-- ✅ Exploiter un dossier moléculaire pour choisir un actif
-- ✅ Lire une Lewis fournie (doublets, donneur/accepteur)
-- ✅ Identifier fonctions organiques sur formules topologiques
-- ✅ Relier structure → polarité → interactions → propriété → décision
-- ✅ Argumenter un choix professionnel avec au moins 2 arguments
-- ✅ Proposer un excipient adapté (solubilisant/co-solvant/tensioactif)
-
-**Posture E2 travaillée :** Exploiter des documents → Analyser → Interpréter → Argumenter → Décider

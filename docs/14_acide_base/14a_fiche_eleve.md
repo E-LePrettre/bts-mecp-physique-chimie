@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 14 📝 Fiche élève
 ---
 
@@ -442,16 +442,6 @@ Dans la **séance suivante (S15 – TP2)** :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Acides et bases selon Brønsted](https://www.youtube.com/watch?v=ANi709MYnWg)** – 6 min
-*Comprendre la définition de Brønsted et les couples acide-base.*
-
-🎬 **[Le pKa et le diagramme de prédominance](https://www.youtube.com/watch?v=Cmp2xcMz5DI)** – 8 min
-*Savoir lire un diagramme de prédominance.*
-
-💡 **Conseil** : Ces notions sont fondamentales pour comprendre la formulation cosmétique. Le diagramme de prédominance revient régulièrement à l'épreuve E2 !

@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 09 📖 Trace écrite
 ---
 
@@ -43,7 +43,8 @@ $$\boxed{pH = -\log\left([H_3O^+]\right)}$$
 Le pH s'exprime par un **nombre sans unité**, généralement compris entre **0 et 14** (à 25°C).
 
 <p align="center">
-  <img src="./images/ph_scale.png" alt="Échelle de pH" width="70%">
+  <img src="/09_pH/images/ph_scale.png" alt="Échelle de pH" width="70%">
+  <br><em>Echelle de pH</em>
 </p>
 
 ### Classification
@@ -207,8 +208,11 @@ Pour vérifier si un produit est conforme :
 
 ### Systèmes tampons
 
+
+
 <p align="center">
-  <img src="./images/predominance_schema.png" alt="Schéma de prédominance pH / pKa" width="70%">
+  <img src="/09_pH/images/predominance_schema.png" alt="Schéma de prédominance pH / pKa" width="70%">
+  <br><em>Schéma de prédominance</em>
 </p>
 
 
@@ -262,4 +266,4 @@ Un **système tampon** stabilise le pH d'une formulation :
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

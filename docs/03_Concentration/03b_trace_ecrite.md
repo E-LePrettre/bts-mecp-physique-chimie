@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 03 📖 Trace écrite
 ---
 
@@ -256,4 +256,4 @@ Dans la **séance suivante (S04)**, nous apprendrons à **modifier** une concent
 
 ## 🔧 Outil méthodologique associé
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)

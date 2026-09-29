@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 26 📝 Fiche élève
 ---
 
@@ -409,7 +409,7 @@ Rédigez une synthèse de **8 à 12 lignes** qui explique pourquoi un produit co
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 

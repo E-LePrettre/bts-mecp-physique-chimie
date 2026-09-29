@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 15 🧪 TP2 Fiche élève 
 ---
 
@@ -228,6 +228,6 @@ Avant de passer à la manipulation, vérifiez :
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration (D.U.C.I.)**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 07 – Exploiter un titrage acido-basique**](../Methodologie/07_fiche_methode/)
+➡️ [**Fiche méthode 07 – Exploiter un titrage acido-basique**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/07_fiche_methode/)

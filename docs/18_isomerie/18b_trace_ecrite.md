@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 18 📖 Trace écrite
 ---
 
@@ -27,7 +27,7 @@ $$\boxed{\text{Isomères} : \text{Même formule brute} + \text{Structures diffé
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   📌 À RETENIR :                                           │
+│   📌 À RETENIR :                                            │
 │                                                             │
 │   • ISOMÈRE = même formule brute, structure différente      │
 │   • Structure différente → Propriétés différentes           │
@@ -295,6 +295,6 @@ Lors du contrôle d'un lot d'ingrédient :
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](../Methodologie/08_fiche_methode/)
+➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/)

@@ -46,9 +46,9 @@ Cette séance introduit la **conductivité σ** et ses applications en contrôle
 
 ### 🔧 Fiches méthode associées
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](../Methodologie/05_fiche_methode/)
+➡️ [**Fiche méthode 05 – Lire une représentation microscopique (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
 
 ---
 
@@ -132,18 +132,7 @@ Cette séance introduit la **conductivité σ** et ses applications en contrôle
 
 ---
 
-## 📺 Pour réviser en vidéo
 
-🎬 **[La conductivité des solutions](https://www.youtube.com/watch?v=example1)** – 8 min
-*Comprendre σ, ions, porteurs de charge.*
-
-🎬 **[Émulsions H/E et E/H](https://www.youtube.com/watch?v=example2)** – 6 min
-*Déterminer le type d'émulsion par conductivité.*
-
-🎬 **[La CMC d'un tensioactif](https://www.youtube.com/watch?v=example3)** – 7 min
-*Formation des micelles, rupture de pente sur σ = f(C).*
-
----
 
 ## 🔗 Navigation
 
@@ -151,17 +140,4 @@ Cette séance introduit la **conductivité σ** et ses applications en contrôle
 
 ➡️ Séance suivante : [S22 – Évaluation type E2 transversale](../22_Evaluation4/)
 
----
 
-## 🔗 Liens avec la progression
-
-| Séance | Lien |
-|--------|------|
-| **S01** | Mélanges, phases, émulsions → type d'émulsion H/E vs E/H |
-| **S11** | Ions, dissociation ionique → porteurs de charge, conductivité |
-| **S13** | Polarité, solvant polaire → dissociation des ions dans l'eau |
-| **S14** | Acide-base → H₃O⁺/HO⁻, ions les plus conducteurs |
-| **S16** | Température → facteur influençant σ |
-| **TP4** | CMC par conductimétrie → préparé en S21, exploité en S22 |
-| **S22** | Évaluation E2 transversale → exploitation données σ et CMC |
-| **S25** | Électricité → tension, intensité, puissance, lien conductimètre |

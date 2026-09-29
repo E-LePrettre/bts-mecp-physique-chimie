@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 11 📖 Trace écrite
 ---
 
@@ -356,4 +356,4 @@ La **conductivité** d'une solution dépend de la présence d'**ions mobiles** :
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 05 – Lire le tableau périodique**](../Methodologie/05_fiche_methode/)
+➡️ [**Fiche méthode 05 – Lire le tableau périodique**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)

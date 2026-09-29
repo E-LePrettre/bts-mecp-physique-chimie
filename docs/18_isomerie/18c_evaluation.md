@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 18 🖋️ Évaluation formative
 ---
 
@@ -44,9 +44,9 @@ On considère les trois molécules suivantes :
 
 | Molécule | Formule topologique | Formule brute |
 |----------|:-------------------:|:-------------:|
-| **A** | <img src="./images/butane.png" alt="butane" width="35%"> | _______ |
-| **B** | <img src="./images/isobutane.png" alt="isobutane" width="35%"> | _______ |
-| **C** | <img src="./images/pentane.png" alt="pentane" width="35%"> | _______ |
+| **A** | <img src="/18_isomerie/images/butane.png" alt="butane" width="35%"> | _______ |
+| **B** | <img src="/18_isomerie/images/isobutane.png" alt="isobutane" width="35%"> | _______ |
+| **C** | <img src="/18_isomerie/images/pentane.png" alt="pentane" width="35%"> | _______ |
 
 
 ### 2.1 (2 pts)

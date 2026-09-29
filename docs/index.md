@@ -145,6 +145,6 @@ Formation professionnalisante orientée expertise scientifique et réussite à l
 
 <br>
 
-✍️ Elisabeth Le Prettre
+✍️ Elisabeth Le Prettre (LePrettre)
 
 </div>

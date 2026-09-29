@@ -45,9 +45,9 @@ Cette séance introduit les **couples acide-base** selon Brønsted, le **pKa** e
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 08 – Exploiter un titrage (distribuée en S15)](../Methodologie/08_fiche_methode/)
+➡️ [Fiche méthode 08 – Exploiter un titrage (distribuée en S15)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/)
 
 ---
 
@@ -110,15 +110,6 @@ Cette séance introduit les **couples acide-base** selon Brønsted, le **pKa** e
 
 ---
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Acides et bases selon Brønsted](https://www.youtube.com/watch?v=ANi709MYnWg)** – 6 min
-*Comprendre la définition de Brønsted et les couples acide-base.*
-
-🎬 **[Le pKa et le diagramme de prédominance](https://www.youtube.com/watch?v=Cmp2xcMz5DI)** – 8 min
-*Savoir lire un diagramme de prédominance.*
-
----
 
 ## 🔗 Navigation
 

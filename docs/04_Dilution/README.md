@@ -50,15 +50,7 @@ Les notions abordées (facteur de dilution, conservation de la matière, protoco
 
 ---
 
-## 📺 Pour réviser en vidéo
 
-🎬 [Réaliser une dilution – Unisciel](https://www.youtube.com/watch?v=K6KLg_R0GKE) – 4 min
-
-🎬 [Facteur de dilution – Explication](https://www.youtube.com/watch?v=3XGXfKJqPtk) – 3 min
-
-🎬 [Solution mère, solution fille](https://www.youtube.com/watch?v=vqX9QXMJ8bQ) – 5 min
-
----
 
 ## 🔗 Navigation
 

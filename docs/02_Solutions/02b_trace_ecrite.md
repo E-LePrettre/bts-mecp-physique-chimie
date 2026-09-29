@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 02 📖 Trace écrite
 ---
 
@@ -269,4 +269,4 @@ Dans la **séance suivante (S03)**, nous apprendrons à **quantifier** une solut
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

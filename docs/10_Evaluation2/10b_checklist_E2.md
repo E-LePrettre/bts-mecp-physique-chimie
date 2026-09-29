@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 10 📋 Checklist E2 – Évaluation n°2
 ---
 
@@ -346,13 +346,13 @@ Cette checklist s'enrichit au fil des évaluations :
 │                                                                 │
 │   📌 En E2, on évalue une EXPERTISE PROFESSIONNELLE            │
 │                                                                 │
-│   ✓ Un calcul SANS interprétation = réponse INCOMPLÈTE        │
-│   ✓ Une réponse SANS justification = points PERDUS            │
-│   ✓ La MÉTHODE compte autant que le RÉSULTAT                  │
-│   ✓ La CONFORMITÉ doit être vérifiée pour CHAQUE paramètre    │
+│   ✓ Un calcul SANS interprétation = réponse INCOMPLÈTE         │
+│   ✓ Une réponse SANS justification = points PERDUS             │
+│   ✓ La MÉTHODE compte autant que le RÉSULTAT                   │
+│   ✓ La CONFORMITÉ doit être vérifiée pour CHAQUE paramètre     │
 │                                                                 │
 │   👉 Même avec une erreur de calcul, un raisonnement           │
-│      bien structuré est VALORISÉ !                             │
+│      bien structuré est VALORISÉ !                              │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```

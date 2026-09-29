@@ -44,9 +44,9 @@ Cette séance introduit les **interactions intermoléculaires** (liaisons hydrog
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 06 – Lire une formule de Lewis](../Methodologie/06_fiche_methode/)
+➡️ [Fiche méthode 06 – Lire une formule de Lewis](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)
 
 ---
 
@@ -110,17 +110,7 @@ Cette séance introduit les **interactions intermoléculaires** (liaisons hydrog
 
 ---
 
-## 📺 Pour réviser en vidéo
 
-🎬 **[Liaisons hydrogène et interactions ](https://www.youtube.com/watch?v=8TcQm3cuy_0)** – 4 min
-*Comprendre les forces intermoléculaires.*
-
-🎬 **[Polarité des molécules ](https://www.youtube.com/watch?v=p6a3b4kUTY0)** - 5 min
-
-🎬 **[Hydrophile / Lipophile : comprendre la solubilité](https://www.youtube.com/watch?v=Phsc5Qp3tFA)** – 11 min
-*Le lien entre structure moléculaire et solubilité.*
-
----
 
 ## 🔗 Navigation
 

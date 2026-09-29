@@ -1,6 +1,6 @@
 ---
-author: ELP
-title: "13 🖋️ Évaluation formative"
+author: Elisabeth Le Prettre (LePrettre)
+title: 13 🖋️ Évaluation formative
 ---
 
 # S13 – Interactions moléculaires : solubilité et pénétration cutanée 🖋️

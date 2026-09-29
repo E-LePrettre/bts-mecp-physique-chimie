@@ -45,7 +45,7 @@ Cette séance introduit les **états de la matière**, le **diagramme d'état**,
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -107,18 +107,7 @@ Cette séance introduit les **états de la matière**, le **diagramme d'état**,
 
 ---
 
-## 📺 Pour réviser en vidéo
 
-🎬 **[Les états de la matière et les changements d'état](https://www.youtube.com/watch?v=example1)** – 7 min
-*Comprendre solide, liquide, gaz et les transitions.*
-
-🎬 **[Les transferts thermiques : conduction, convection, rayonnement](https://www.youtube.com/watch?v=example2)** – 8 min
-*Visualiser les trois modes de transfert.*
-
-🎬 **[Écart-type et histogramme : interpréter la dispersion](https://www.youtube.com/watch?v=example3)** – 6 min
-*Calculer et interpréter l'écart-type.*
-
----
 
 ## 🔗 Navigation
 

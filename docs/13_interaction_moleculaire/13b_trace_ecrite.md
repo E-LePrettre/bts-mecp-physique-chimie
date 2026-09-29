@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 13 📖 Trace écrite
 ---
 
@@ -236,7 +236,7 @@ Le **stratum corneum** (couche cornée) est la principale barrière de la peau. 
 
 | Séance | Réinvestissement |
 |--------|------------------|
-| **S14** | pH et cosmétiques |
+| **S14** | Acido-basicité (couples, pKa, diagramme de prédominance)|
 | **S19** | Fonctions organiques (alcools, acides, esters) |
 
 
@@ -244,6 +244,6 @@ Le **stratum corneum** (couche cornée) est la principale barrière de la peau. 
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](../Methodologie/06_fiche_methode/)
+➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)

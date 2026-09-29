@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 19 📝 Fiche élève
 ---
 
@@ -504,24 +504,13 @@ Rédigez une synthèse de **10 à 15 lignes** qui explique les principales fonct
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](../Methodologie/08_fiche_methode/) **(à utiliser INTENSIVEMENT)**
+➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/) **(à utiliser INTENSIVEMENT)**
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
-
----
-
-## 📺 Pour réviser en vidéo
-
-🎬 **[Les fonctions organiques en chimie](https://www.youtube.com/watch?v=example1)** – 10 min
-*Comprendre alcool, acide, ester, amine, amide.*
-
-🎬 **[Liaisons hydrogène : comment ça marche ?](https://www.youtube.com/watch?v=example2)** – 6 min
-*Visualiser les liaisons H et leur rôle.*
-
-🎬 **[Les peptides : structure et fonction](https://www.youtube.com/watch?v=example3)** – 8 min
-*Liaison peptidique, structure des protéines.*
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
+
+
 
 ## 🔗 Lien avec la suite
 

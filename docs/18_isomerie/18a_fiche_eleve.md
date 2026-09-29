@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 18 📝 Fiche élève
 ---
 
@@ -284,24 +284,12 @@ Rédigez une synthèse de **8 à 12 lignes** qui explique ce qu'est l'isomérie,
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](../Methodologie/08_fiche_methode/)
-
----
-
-## 📺 Pour réviser en vidéo
-
-🎬 **[Qu'est-ce qu'un isomère ?](https://www.youtube.com/watch?v=example1)** – 6 min
-*Comprendre la notion d'isomère avec des exemples simples.*
-
-🎬 **[Les trois types d'isomérie de constitution](https://www.youtube.com/watch?v=example2)** – 8 min
-*Distinguer isomérie de chaîne, de position et de fonction.*
-
-🎬 **[Isomérie et propriétés : pourquoi c'est important ?](https://www.youtube.com/watch?v=example3)** – 7 min
-*Relier la structure des isomères à leurs propriétés.*
+➡️ [**Fiche méthode 08 – Reconnaître les fonctions organiques**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/)
 
 ---
+
 
 ## 🔗 Lien avec la suite
 

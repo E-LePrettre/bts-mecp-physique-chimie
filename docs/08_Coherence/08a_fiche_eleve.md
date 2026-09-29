@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 08 📝 Fiche élève
 ---
 
@@ -489,21 +489,8 @@ Dans les **séances suivantes**, vous découvrirez :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Moyenne et écart-type – Lumni](https://www.lumni.fr/video/moyenne-et-ecart-type)** – 4 min
-*Comprendre ces deux indicateurs statistiques essentiels.*
-
-🎬 **[Analyse des unités – Physique-Chimie](https://www.youtube.com/watch?v=HkPzLBzX8cI)** – 3 min
-*La méthode pour vérifier un calcul par ses unités.*
-
-🎬 **[Détecter une valeur aberrante](https://www.youtube.com/watch?v=rzVdCWFwI9Q)** – 5 min
-*Méthodes pratiques pour identifier les données suspectes.*
-
-💡 **Conseil** : L'analyse critique des résultats est une compétence très valorisée à l'E2 !

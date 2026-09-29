@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 23 📖 Trace écrite
 ---
 
@@ -48,11 +48,11 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 ```
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   T = 1 / f       f = 1 / T                │
+│   T = 1 / f       f = 1 / T                 │
 │                                             │
 │           c = λ × f                         │
 │                                             │
-│   λ = c / f       f = c / λ                │
+│   λ = c / f       f = c / λ                 │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -88,13 +88,13 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   📌 À RETENIR – GRANDEURS D'UNE ONDE :                       │
+│   📌 À RETENIR – GRANDEURS D'UNE ONDE :                        │
 │                                                                 │
-│   • T (période, en s) = durée d'un cycle                       │
-│   • f (fréquence, en Hz) = nombre de cycles par seconde        │
-│   • λ (longueur d'onde, en m) = distance d'un cycle            │
-│   • c (célérité, en m/s) = vitesse de propagation              │
-│   • Relation : c = λ × f  (et T = 1/f)                        │
+│   • T (période, en s) = durée d'un cycle                        │
+│   • f (fréquence, en Hz) = nombre de cycles par seconde         │
+│   • λ (longueur d'onde, en m) = distance d'un cycle             │
+│   • c (célérité, en m/s) = vitesse de propagation               │
+│   • Relation : c = λ × f  (et T = 1/f)                          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -111,7 +111,7 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
     ◄─────────┼───────────────────────────┼──────────────►  f
               │                           │
    INFRASONS  │    SONS AUDIBLES          │   ULTRASONS
-   f < 20 Hz  │  20 Hz < f < 20 kHz      │   f > 20 kHz
+   f < 20 Hz  │  20 Hz < f < 20 kHz       │   f > 20 kHz
               │                           │
    Inaudibles │  Perçus par l'oreille     │  Inaudibles
 ```
@@ -146,10 +146,10 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 │                                                                 │
 │   📌 À RETENIR – SPECTRE ACOUSTIQUE :                          │
 │                                                                 │
-│   • Infrasons : f < 20 Hz (inaudibles)                         │
-│   • Sons audibles : 20 Hz < f < 20 kHz                        │
-│   • Ultrasons : f > 20 kHz (inaudibles)                       │
-│   • En esthétique : 25 kHz à 3 MHz                             │
+│   • Infrasons : f < 20 Hz (inaudibles)                          │
+│   • Sons audibles : 20 Hz < f < 20 kHz                          │
+│   • Ultrasons : f > 20 kHz (inaudibles)                         │
+│   • En esthétique : 25 kHz à 3 MHz                              │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -173,11 +173,11 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   ⚠️  Plus la FRÉQUENCE est ÉLEVÉE,                        │
-│       moins l'onde PÉNÈTRE en profondeur.                   │
+│   ⚠️  Plus la FRÉQUENCE est ÉLEVÉE,                         │
+│       moins l'onde PÉNÈTRE en profondeur.                    │
 │                                                              │
-│   1 MHz → pénétration profonde (3-5 cm) → CORPS            │
-│   3 MHz → pénétration superficielle (1-2 cm) → VISAGE      │
+│   1 MHz → pénétration profonde (3-5 cm) → CORPS              │
+│   3 MHz → pénétration superficielle (1-2 cm) → VISAGE        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -227,12 +227,12 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   📌 À RETENIR – SÉCURITÉ :                                   │
+│   📌 À RETENIR – SÉCURITÉ :                                    │
 │                                                                 │
-│   • Gel de contact OBLIGATOIRE (milieu de propagation)         │
-│   • Mouvement CONTINU (jamais immobile sur la peau)            │
-│   • 7 contre-indications principales à MÉMORISER              │
-│   • En cas de DOUTE → NE PAS FAIRE LE SOIN                    │
+│   • Gel de contact OBLIGATOIRE (milieu de propagation)          │
+│   • Mouvement CONTINU (jamais immobile sur la peau)             │
+│   • 7 contre-indications principales à MÉMORISER                │
+│   • En cas de DOUTE → NE PAS FAIRE LE SOIN                      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -274,19 +274,10 @@ Une **onde** est une perturbation qui se propage dans l'espace. L'onde transport
 
 ---
 
-## 🔗 Lien avec la suite de la progression
 
-| Séance | Réinvestissement |
-|--------|------------------|
-| **S21** | Conductivité → ici : propagation d'ondes mécaniques |
-| **S24** | Ondes EM → compléter la culture « appareils à ondes » (LED, lumière pulsée, UV) |
-| **COSMÉTO S18** | Contrôles et mesures → utilisation des appareils de diagnostic |
-| **COSMÉTO S26** | Sensoriel → expérience client lors des soins par ultrasons |
-
----
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

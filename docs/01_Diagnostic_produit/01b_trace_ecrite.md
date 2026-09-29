@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 01 📖 Trace écrite
 ---
 
@@ -235,4 +235,4 @@ Ces notions permettront ensuite d'aborder les **calculs de concentration** (S03)
 
 ## 🔧 Outil méthodologique associé
 
-➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie (E2)**](https://bts-mecp-physique-chimie.forge.apps.education.fr/Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

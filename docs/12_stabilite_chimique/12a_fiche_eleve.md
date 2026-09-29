@@ -1,6 +1,6 @@
 ---
-author: ELP
-title: "12 📝 Fiche élève"
+author: Elisabeth Le Prettre (LePrettre)
+title: 12 📝 Fiche élève
 ---
 
 # S12 – Stabilité chimique : lecture de Lewis 📝
@@ -72,12 +72,12 @@ Les **gaz nobles** (colonne 18 du tableau périodique) sont des éléments chimi
 - 8 électrons pour les autres (couche externe pleine)
 
 <p align="center">
-  <img src=".\images\gaz_nobles.jpg" alt="Gaz nobles" width="80%"><br>
+  <img src="\12_stabilite_chimique\images\gaz_nobles.jpg" alt="Gaz nobles" width="80%"><br>
   <em>Gaz nobles : couche externe pleine → stabilité</em>
 </p>
 
 <p align="center">
-  <img src=".\images\bohr_Ne_Cl.png" alt="Comparaison Ne / Cl" width="80%"><br>
+  <img src="\12_stabilite_chimique\images\bohr_Ne_Cl.png" alt="Comparaison Ne / Cl" width="80%"><br>
   <em>Ne : couche externe pleine ; Cl : 7 e⁻ de valence → tendance à compléter</em>
 </p>
 
@@ -96,7 +96,7 @@ $$\boxed{\text{Règle du duet (pour H) : 2 électrons sur la couche externe = ST
 - En **partageant** des électrons → formation de **liaisons covalentes**
 
 <p align="center">
-  <img src=".\images\legende_Lewis.png" alt="Légende Lewis" width="85%"><br>
+  <img src="\12_stabilite_chimique\images\legende_Lewis.png" alt="Légende Lewis" width="85%"><br>
   <em>Repères : doublets liants / non liants</em>
 </p>
 
@@ -136,7 +136,7 @@ La **représentation de Lewis** permet de visualiser les **électrons de valence
 ```
 
 <p align="center">
-  <img src=".\images\lewis.gif" alt="Exemples Lewis" width="70%"><br>
+  <img src="\12_stabilite_chimique\images\lewis.gif" alt="Exemples Lewis" width="70%"><br>
   <em>Exemples de Lewis d’atomes et molécules</em>
 </p>
 
@@ -154,7 +154,7 @@ Quand deux atomes mettent en commun des électrons, ils forment une **liaison co
 **Exemple : la molécule d'eau H₂O**
 
 <p align="center">
-  <img src=".\images\h2o.png" alt="Lewis H2O" width="20%"><br>
+  <img src="\12_stabilite_chimique\images\h2o.png" alt="Lewis H2O" width="20%"><br>
 </p>
                     
    • 2 doublets liants (traits H—O)
@@ -168,7 +168,7 @@ Quand deux atomes mettent en commun des électrons, ils forment une **liaison co
 **Exemple : la molécule de dioxygène O₂**
 
 <p align="center">
-  <img src=".\images\O2.png" alt="Lewis O2" width="20%"><br>
+  <img src="\12_stabilite_chimique\images\O2.png" alt="Lewis O2" width="20%"><br>
 </p>
                  
    • 1 double liaison (4 e⁻ partagés)
@@ -177,7 +177,7 @@ Quand deux atomes mettent en commun des électrons, ils forment une **liaison co
 **Exemple : la molécule de dichlore Cl₂**
 
 <p align="center">
-  <img src=".\images\cl2.png" alt="Lewis Cl2" width="20%"><br>
+  <img src="\12_stabilite_chimique\images\cl2.png" alt="Lewis Cl2" width="20%"><br>
 </p>
 
 
@@ -194,7 +194,7 @@ $$\boxed{\text{Radical = électron célibataire (•) = INSTABLE et TRÈS RÉACT
 **Exemple : le radical hydroxyle HO•**
 
 <p align="center">
-  <img src=".\images\radical.png" alt="Radical : électron célibataire" width="25%"><br>
+  <img src="\12_stabilite_chimique\images\radical.png" alt="Radical : électron célibataire" width="25%"><br>
   <em>Électron célibataire → très réactif</em>
 </p>
               
@@ -215,7 +215,7 @@ $$\boxed{\text{Radical = électron célibataire (•) = INSTABLE et TRÈS RÉACT
 ### B) Lacune électronique (octet incomplet)
 
 <p align="center">
-  <img src=".\images\lacune.png" alt="Lacune électronique" width="25%"><br>
+  <img src="\12_stabilite_chimique\images\lacune.png" alt="Lacune électronique" width="25%"><br>
   <em>Octet incomplet → tendance à réagir</em>
 </p>
 
@@ -240,7 +240,7 @@ Certaines liaisons sont plus **faciles à casser** que d'autres. Les liaisons **
 | Peroxyde de benzoyle | C₁₄H₁₀O₄ | Actif anti-acné |
 
 <p align="center">
-  <img src=".\images\h2o2.png" alt="Peroxyde H2O2 : liaison O-O" width="30%"><br>
+  <img src="\12_stabilite_chimique\images\h2o2.png" alt="Peroxyde H2O2 : liaison O-O" width="30%"><br>
   <em>La liaison O–O est plus fragile → peut générer des espèces réactives</em>
 </p>
 
@@ -260,7 +260,7 @@ Certaines liaisons sont plus **faciles à casser** que d'autres. Les liaisons **
 | Ponts S–S | Entre les fibres | Modifiés par permanente/défrisage |
 
 <p align="center">
-  <img src=".\images\pont_disulfure.png" alt="Pont disulfure S-S" width="35%"><br>
+  <img src="\12_stabilite_chimique\images\pont_disulfure.png" alt="Pont disulfure S-S" width="35%"><br>
   <em>Ponts S–S : structure de la kératine (cheveu)</em>
 </p>
 ---
@@ -603,21 +603,8 @@ Dans les **séances suivantes**, vous découvrirez :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](../Methodologie/06_fiche_methode/)
+➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Les formules de Lewis – Lumni](https://www.lumni.fr/video/les-formules-de-lewis)** – 5 min
-*Comprendre les représentations de Lewis.*
-
-🎬 **[Les radicaux libres et le vieillissement](https://www.youtube.com/watch?v=wXsZe6XZAG4)** – 4 min
-*Pourquoi les radicaux libres abîment la peau.*
-
-🎬 **[La permanente : chimie du cheveu](https://www.youtube.com/watch?v=J2L9a_jKbQE)** – 6 min
-*Rôle des liaisons S–S dans la structure capillaire.*
-
-💡 **Conseil** : Ces notions sont fondamentales pour comprendre la stabilité des actifs cosmétiques !

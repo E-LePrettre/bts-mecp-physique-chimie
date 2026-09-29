@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 12 📖 Trace écrite
 ---
 
@@ -75,7 +75,7 @@ La **représentation de Lewis** permet de visualiser les **électrons de valence
 ### Exemple : la molécule d'eau H₂O
 
 <p align="center">
-  <img src=".\images\h2o.png" alt="Lewis H2O" width="20%"><br>
+  <img src="\12_stabilite_chimique\images\h2o.png" alt="Lewis H2O" width="20%"><br>
 </p>
                     
    • 2 doublets liants (traits H—O)
@@ -110,7 +110,7 @@ $$\boxed{\text{RADICAL = électron célibataire = INSTABLE et TRÈS RÉACTIF}}$$
 ### Exemple : le radical hydroxyle HO•
 
 <p align="center">
-  <img src=".\images\radical.png" alt="Radical : électron célibataire" width="25%"><br>
+  <img src="\12_stabilite_chimique\images\radical.png" alt="Radical : électron célibataire" width="25%"><br>
   <em>Électron célibataire → très réactif</em>
 </p>
               
@@ -280,4 +280,4 @@ $$\boxed{\text{L'électronégativité AUGMENTE de gauche à droite et de bas en 
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](../Methodologie/06_fiche_methode/)
+➡️ [**Fiche méthode 06 – Lire une formule de Lewis**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)

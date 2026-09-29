@@ -47,9 +47,9 @@ Cette séance introduit les **représentations de Lewis** et la notion de **stab
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 06 – Lire une formule de Lewis](../Methodologie/06_fiche_methode/)
+➡️ [Fiche méthode 06 – Lire une formule de Lewis](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)
 
 ---
 
@@ -111,18 +111,7 @@ Cette séance introduit les **représentations de Lewis** et la notion de **stab
 
 ---
 
-## 📺 Vidéos de révision
 
-🎬 **[Les formules de Lewis – Lumni](https://www.lumni.fr/video/les-formules-de-lewis)** – 5 min
-*Comprendre les représentations de Lewis.*
-
-🎬 **[Les radicaux libres et le vieillissement](https://www.youtube.com/watch?v=wXsZe6XZAG4)** – 4 min
-*Pourquoi les radicaux libres abîment la peau.*
-
-🎬 **[La permanente : chimie du cheveu](https://www.youtube.com/watch?v=J2L9a_jKbQE)** – 6 min
-*Rôle des liaisons S–S dans la structure capillaire.*
-
----
 
 ## 🔗 Navigation
 

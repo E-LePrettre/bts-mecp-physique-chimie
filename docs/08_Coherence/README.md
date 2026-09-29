@@ -39,7 +39,7 @@ Cette séance développe l'**esprit critique** face aux résultats expérimentau
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse en physique-chimie](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse en physique-chimie](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -81,19 +81,7 @@ RÉSULTAT → Unités OK ? → Ordre de grandeur OK ? → Cohérent avec autres 
 
 ---
 
-## 📺 Vidéos de révision
 
-🎬 **[Moyenne et écart-type – Lumni](https://www.lumni.fr/video/moyenne-et-ecart-type)** – 4 min
-*Comprendre ces indicateurs statistiques essentiels.*
-
-🎬 **[Analyse des unités](https://www.youtube.com/watch?v=HkPzLBzX8cI)** – 3 min
-*La méthode pour vérifier un calcul par ses unités.*
-
-🎬 **[Détecter une valeur aberrante](https://www.youtube.com/watch?v=rzVdCWFwI9Q)** – 5 min
-*Méthodes pratiques pour identifier les données suspectes.*
-
-
----
 
 ## 🔗 Navigation
 

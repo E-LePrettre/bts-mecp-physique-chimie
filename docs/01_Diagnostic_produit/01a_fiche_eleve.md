@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 01 📝 Fiche élève
 ---
 
@@ -319,16 +319,6 @@ Dans la prochaine séance, nous approfondirons la notion de **solution** :
 
 ## 🔧 Outil méthodologique associé
 
-➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie (E2)**](https://bts-mecp-physique-chimie.forge.apps.education.fr/Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[C'est pas sorcier – Les cosmétiques](https://www.youtube.com/watch?v=K2Z2IvpTxZE)** – 26 min (regarder les 10 premières minutes)
-*Découvrez les bases de la formulation cosmétique et la composition des produits.*
-
-🎬 **[Lumni – Mélanges et corps purs](https://www.lumni.fr/video/melanges-et-corps-purs)** – 3 min
-*Révision rapide des notions de corps pur, mélange homogène et hétérogène.*
-
-💡 **Conseil** : Regardez ces vidéos si vous avez besoin de revoir les notions à votre rythme, ou si vous étiez absent(e) en cours.

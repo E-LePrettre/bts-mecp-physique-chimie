@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 21 📖 Trace écrite
 ---
 
@@ -51,8 +51,8 @@ On plonge deux **électrodes** dans la solution et on applique une **tension él
        │  │     ← électrodes
     ┌──┼──┼───┐
     │  │  │   │
-    │ ⊕→ ←⊖  │  ← ions en mouvement
-    │ ⊖→ ←⊕  │
+    │ ⊕→ ←⊖ │  ← ions en mouvement
+    │ ⊖→ ←⊕ │
     │  │  │   │
     └─────────┘
       Solution
@@ -327,20 +327,7 @@ Pour un tensioactif **ionique**  :
 
 ---
 
-## 🔗 Lien avec la suite de la progression
 
-| Séance | Réinvestissement |
-|--------|------------------|
-| **S01** | Mélanges, phases, émulsions → type d'émulsion H/E vs E/H |
-| **S11** | Ions, dissociation ionique → porteurs de charge = conductivité |
-| **S13** | Polarité, solvant polaire → dissociation des ions dans l'eau |
-| **S14** | Acide-base, H₃O⁺/HO⁻ → ions les plus conducteurs |
-| **S16** | Température → facteur influençant σ |
-| **TP4** | CMC par conductimétrie → exploité en S22 |
-| **S22** | Évaluation E2 → exploitation des données σ et CMC |
-| **S25** | Électricité → lien tension, intensité, conductimètre |
-
----
 
 ## 🔧 Fiche méthode associée
 

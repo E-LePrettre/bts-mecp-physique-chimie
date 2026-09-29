@@ -47,9 +47,9 @@ Cette séance introduit les **trois modes de représentation** des molécules or
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 08 – Reconnaître les fonctions organiques](../Methodologie/08_fiche_methode/) *(sera utilisée en S19)*
+➡️ [Fiche méthode 08 – Reconnaître les fonctions organiques](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/08_fiche_methode/) *(sera utilisée en S19)*
 
 ---
 
@@ -105,18 +105,6 @@ Cette séance introduit les **trois modes de représentation** des molécules or
 
 
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Les représentations des molécules organiques](https://www.youtube.com/watch?v=example1)** – 8 min
-*Comprendre brute, semi-développée et topologique.*
-
-🎬 **[Lire une formule topologique](https://www.youtube.com/watch?v=example2)** – 6 min
-*Compter les C et H implicites.*
-
-🎬 **[Chaînes carbonées : linéaire, ramifiée, cyclique](https://www.youtube.com/watch?v=example3)** – 7 min
-*Identifier les types de chaînes.*
-
----
 
 ## 🔗 Navigation
 

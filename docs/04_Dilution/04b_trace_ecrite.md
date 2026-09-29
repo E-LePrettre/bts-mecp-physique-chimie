@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 04 📖 Trace écrite
 ---
 
@@ -275,6 +275,6 @@ Dans la **séance suivante (S05 – TP1)**, vous mettrez en pratique :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 04 – Choisir et justifier une dilution**](../Methodologie/04_fiche_methode/)
+➡️ [**Fiche méthode 04 – Choisir et justifier une dilution**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/04_fiche_methode/)

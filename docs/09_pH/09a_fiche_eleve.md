@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 09 📝 Fiche élève
 ---
 
@@ -86,8 +86,11 @@ $$\boxed{pH = -\log[H_3O^+]}$$
 
 Le pH s'exprime par un **nombre sans unité**, généralement compris entre **0 et 14** (à 25°C).
 
+
 <p align="center">
-  <img src="./images/ph_scale.png" alt="Échelle de pH" width="70%">
+  <img src="/09_pH/images/ph_scale.png" 
+       alt="Échelle de pH" width="95%">
+  <br><em>Échelle de pH</em>
 </p>
 
 | Domaine | Valeur du pH | Caractéristique |
@@ -470,19 +473,6 @@ Dans les **séances suivantes**, vous découvrirez :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
----
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Le pH, c'est quoi ? – Lumni](https://www.lumni.fr/video/le-ph)** – 3 min
-*Définition et échelle de pH expliquées simplement.*
-
-🎬 **[pH et cosmétiques – Formulation](https://www.youtube.com/watch?v=oKqZ2vwIXPc)** – 5 min
-*Pourquoi le pH est crucial en formulation cosmétique.*
-
-🎬 **[Mesurer le pH – Protocole](https://www.youtube.com/watch?v=rXbpWM4PNxE)** – 4 min
-*Utilisation du pH-mètre (préparation au TP2).*
-
-💡 **Conseil** : Regardez la vidéo sur la mesure du pH avant le TP2 pour vous familiariser avec le matériel !

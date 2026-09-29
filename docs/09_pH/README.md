@@ -51,7 +51,7 @@ Cette séance introduit le **pH**, paramètre fondamental en cosmétique pour é
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -101,18 +101,7 @@ Cette séance introduit le **pH**, paramètre fondamental en cosmétique pour é
 
 ---
 
-## 📺 Vidéos de révision
 
-🎬 **[Le pH, c'est quoi ? – Lumni](https://www.lumni.fr/video/le-ph)** – 3 min
-*Définition et échelle de pH expliquées simplement.*
-
-🎬 **[pH et cosmétiques – Formulation](https://www.youtube.com/watch?v=oKqZ2vwIXPc)** – 5 min
-*Pourquoi le pH est crucial en formulation cosmétique.*
-
-🎬 **[Mesurer le pH – Protocole](https://www.youtube.com/watch?v=rXbpWM4PNxE)** – 4 min
-*Utilisation du pH-mètre (préparation au TP2).*
-
----
 
 ## 🔗 Navigation
 

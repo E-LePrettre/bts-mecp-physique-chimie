@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 25 📝 Évaluation formative
 ---
 
@@ -48,11 +48,11 @@ Voici la plaque signalétique d'un appareil :
 
 ```
 ┌────────────────────────────────┐
-│  VAPOZONE PRO 3000            │
-│  220-240 V ~    50/60 Hz      │
-│  800 W          Classe I      │
-│  CE             IP21          │
-│  N° série : VP-2024-1587      │
+│  VAPOZONE PRO 3000             │
+│  220-240 V ~    50/60 Hz       │
+│  800 W          Classe I       │
+│  CE             IP21           │
+│  N° série : VP-2024-1587       │
 └────────────────────────────────┘
 ```
 

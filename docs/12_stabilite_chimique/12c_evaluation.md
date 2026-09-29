@@ -1,6 +1,6 @@
 ---
-author: ELP
-title: "12 🖋️ Évaluation formative"
+author: Elisabeth Le Prettre (LePrettre)
+title: 12 🖋️ Évaluation formative
 ---
 
 # S12 – Stabilité chimique : lecture de Lewis 🖋️

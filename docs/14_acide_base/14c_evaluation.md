@@ -1,6 +1,6 @@
 ---
-author: ELP
-title: "14 🖋️ Évaluation formative"
+author: Elisabeth Le Prettre (LePrettre)
+title: 14 🖋️ Évaluation formative
 ---
 
 # S14 – Acido-basicité : couples acide-base, pKa et diagramme de prédominance 🖋️

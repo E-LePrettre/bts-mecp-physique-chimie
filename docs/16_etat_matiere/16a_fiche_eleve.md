@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 16 📝 Fiche élève
 ---
 
@@ -100,7 +100,6 @@ Transfert de chaleur par le **mouvement d'un fluide** (liquide ou gaz).
 
 **En cosmétique :** Bain-marie (l'eau chaude circule et chauffe le récipient intérieur). Mais le bain-marie combine aussi de la conduction (contact entre l'eau et le récipient).
 
-
 #### 3. Rayonnement
 
 Transfert de chaleur par **ondes électromagnétiques**, sans support matériel (fonctionne même dans le vide).
@@ -182,8 +181,6 @@ Indiquez sur chaque flèche le nom du changement d'état :
 - Solide → Gaz : _______
 
 - Gaz → Solide : _______
-
-
 
 ### 1.3 – Interpréter le rôle de la pression atmosphérique
 
@@ -337,22 +334,10 @@ Rédigez une synthèse de **8 à 12 lignes** qui explique comment les états de 
 
 ## 🔧 Outils méthodologiques
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
-## 📺 Pour réviser en vidéo
-
-🎬 **[Les états de la matière et les changements d'état](https://www.youtube.com/watch?v=example1)** – 7 min
-*Comprendre solide, liquide, gaz et les transitions.*
-
-🎬 **[Les transferts thermiques : conduction, convection, rayonnement](https://www.youtube.com/watch?v=example2)** – 8 min
-*Visualiser les trois modes de transfert.*
-
-🎬 **[Écart-type et histogramme : interpréter la dispersion](https://www.youtube.com/watch?v=example3)** – 6 min
-*Calculer et interpréter l'écart-type.*
-
----
 
 ## 🔗 Lien avec la suite
 

@@ -48,17 +48,7 @@ Ce premier TP de l'année met en pratique les notions de **dissolution** (S02), 
 
 ---
 
-## 📺 Pour préparer le TP (à regarder AVANT)
 
-🎬 [Utiliser une pipette jaugée](https://www.youtube.com/watch?v=0rSYpJfPJfE) – 3 min
-
-🎬 [Préparer une solution par dissolution](https://www.youtube.com/watch?v=vqX9QXMJ8bQ) – 4 min
-
-🎬 [Réaliser une dilution](https://www.youtube.com/watch?v=K6KLg_R0GKE) – 4 min
-
-💡 **Conseil** : Regardez ces vidéos la veille du TP pour arriver préparé(e) !
-
----
 
 ## ⚠️ Consignes de sécurité
 

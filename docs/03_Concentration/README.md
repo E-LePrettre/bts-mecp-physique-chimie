@@ -44,19 +44,10 @@ Les notions abordées (concentration, calculs, interprétation, conformité) ser
 
 ### 🔧 Fiche méthode associée
 
-➡️ [Fiche méthode 02 – Calculer et interpréter une concentration](../Methodologie/02_fiche_methode/)
+➡️ [Fiche méthode 02 – Calculer et interpréter une concentration](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
 ---
 
-## 📺 Pour réviser en vidéo
-
-🎬 [La concentration massique – Unisciel](https://www.youtube.com/watch?v=2BHlq_bWF8Q) – 4 min
-
-🎬 [Convertir des unités (mL, L, g)](https://www.youtube.com/watch?v=K7_q4cLG4yM) – 3 min
-
-🎬 [Calculer une concentration pas à pas](https://www.youtube.com/watch?v=QhXm6HfxMlA) – 6 min
-
----
 
 ## 🔗 Navigation
 

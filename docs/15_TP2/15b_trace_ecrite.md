@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 15 📖 Trace écrite
 ---
 
@@ -180,6 +180,6 @@ $$n = C_{titrante} \times V_E \qquad \text{puis} \qquad m = n \times M$$
 
 ## 🔧 Fiches méthode associées
 
-➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
-➡️ [**Fiche méthode 07 – Exploiter un titrage acido-basique**](../Methodologie/07_fiche_methode/)
+➡️ [**Fiche méthode 07 – Exploiter un titrage acido-basique**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/07_fiche_methode/)

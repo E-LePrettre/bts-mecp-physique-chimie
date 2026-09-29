@@ -42,27 +42,17 @@ Cette séance est de type **🧭 Culture appareils** : elle introduit les concep
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)](../Methodologie/02_fiche_methode/)
-
-
+➡️ [Fiche méthode 02 – Calculer et interpréter (D.U.C.I.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
 
 
----
 
-## 🔗 Liens avec la progression et la cosmétologie
-
-| Séance | Lien |
-|--------|------|
-| **S21** | Conductivité σ → propagation dans un milieu |
-| **S22** | Évaluation n°3 → pas de lien direct |
-| **S24** (suivante) | Ondes EM (lumière, UV, IR) → complète le panorama « appareils à ondes » |
-| **COSMÉTO S18** | Contrôles et mesures → appareils de diagnostic/soin en institut |
-| **COSMÉTO S26** | Sensoriel et usage → expérience client lors des soins US |
 
 ---
+
+
 
 ## 💡 Points d'attention 
 

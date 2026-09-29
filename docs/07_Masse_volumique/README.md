@@ -38,9 +38,9 @@ Cette séance introduit deux grandeurs physiques fondamentales pour le contrôle
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse en physique-chimie](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 02 – Calculer et interpréter une concentration](../Methodologie/02_fiche_methode/)
+➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration (D.U.C.I.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/02_fiche_methode/)
 
 ---
 
@@ -71,18 +71,7 @@ Cette séance introduit deux grandeurs physiques fondamentales pour le contrôle
 
 ---
 
-## 📺 Vidéos de révision
 
-🎬 **[Masse volumique et densité – Lumni](https://www.lumni.fr/video/masse-volumique-et-densite)** – 4 min
-*Définitions et exemples concrets de calculs.*
-
-🎬 **[Pourquoi ça flotte ou ça coule ?](https://www.youtube.com/watch?v=2xS4rcr8qdE)** – 3 min
-*Comprendre le lien entre densité et flottabilité.*
-
-🎬 **[Mesurer une masse volumique – TP](https://www.youtube.com/watch?v=qPd0xWRYpFc)** – 5 min
-*Protocole expérimental de mesure.*
-
----
 
 
 

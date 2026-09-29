@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 08 📖 Trace écrite
 ---
 
@@ -33,8 +33,8 @@ L'**analyse dimensionnelle** permet de vérifier qu'un calcul est correct en vé
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   📌 RÈGLE : Si les unités ne correspondent pas,           │
-│              le calcul est FAUX                            │
+│   📌 RÈGLE : Si les unités ne correspondent pas,            │
+│              le calcul est FAUX                             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -69,7 +69,7 @@ Un **ordre de grandeur** est une estimation approximative d'une valeur, souvent 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   📌 RÉFLEXE : Un résultat très différent de l'attendu     │
-│               doit alerter → vérifier le calcul            │
+│               doit alerter → vérifier le calcul             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -135,6 +135,7 @@ En laboratoire, on compare souvent l’étendue à une **tolérance** (procédur
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
 ---
 
 ## 5️⃣ Écart à une valeur de référence (contrôle)
@@ -289,4 +290,4 @@ VALIDER  ÉCARTER OU
 
 ## 🔧 Fiche méthode associée
 
-➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)

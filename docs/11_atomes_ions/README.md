@@ -45,9 +45,9 @@ Cette séance introduit la **structure de l'atome** et les **ions**, éléments 
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
-➡️ [Fiche méthode 05 – Lire le tableau périodique](../Methodologie/05_fiche_methode/)
+➡️ [Fiche méthode 05 – Lire le tableau périodique](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
 
 ---
 
@@ -96,18 +96,6 @@ Cette séance introduit la **structure de l'atome** et les **ions**, éléments 
 
 ---
 
-## 📺 Vidéos de révision
-
-🎬 **[Structure de l'atome – Lumni](https://www.lumni.fr/video/la-structure-de-l-atome)** – 4 min
-*Protons, neutrons, électrons expliqués simplement.*
-
-🎬 **[Le tableau périodique – C'est pas sorcier](https://www.youtube.com/watch?v=nREqUjvF7jE)** – 6 min
-*Comprendre l'organisation du tableau de Mendeleïev.*
-
-🎬 **[Ions et composés ioniques](https://www.youtube.com/watch?v=QUGmwPwtbpg)** – 5 min
-*Formation des ions et électroneutralité.*
-
----
 
 ## 🔗 Navigation
 
