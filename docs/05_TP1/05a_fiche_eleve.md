@@ -171,10 +171,8 @@ Réalisez les étapes suivantes et cochez au fur et à mesure :
 |   12  | Transvaser une partie de la solution dans un bécher de 250 mL pour réaliser les prélèvements | ☐ |
 |   13  | Étiqueter : **« Solution mère CuSO₄·5H₂O – environ 100 g/L »**                               | ☐ |
 
-<p align="center">
-  <img src="/images/protocole_dissolution.png" alt="Protocole de dissolution" width="95%">
-  <br><em>Protocole de dissolution (solution mère)</em>
-</p>
+![Protocole de dissolution](protocole_dissolution.png)
+
 
 ---
 
@@ -274,11 +272,11 @@ Complétez le tableau pour vérifier vos calculs :
 
 | Solution |     F = Cm/Cf    |     F = Vf/Vm    |  Cohérent ? |
 | :------: | :--------------: | :--------------: | :---------: |
-|    S1    | **100/60 = ___** | 50/**___ = ___** | ☐ Oui ☐ Non |
-|    S2    | **100/40 = ___** | 50/**___ = ___** | ☐ Oui ☐ Non |
-|    S3    | **100/20 = ___** | 50/**___ = ___** | ☐ Oui ☐ Non |
-|    S4    | **100/10 = ___** | 50/**___ = ___** | ☐ Oui ☐ Non |
-|    S5    |  **100/4 = ___** | 50/**___ = ___** | ☐ Oui ☐ Non |
+|    S1    | **100/60 = ___** | 50/ **_ _ _ = _ _ _** | ☐ Oui ☐ Non |
+|    S2    | **100/40 = ___** | 50/ **_ _ _ = _ _ _** | ☐ Oui ☐ Non |
+|    S3    | **100/20 = ___** | 50/ **_ _ _ = _ _ _** | ☐ Oui ☐ Non |
+|    S4    | **100/10 = ___** | 50/ **_ _ _ = _ _ _** | ☐ Oui ☐ Non |
+|    S5    |  **100/4 = ___** | 50/ **_ _ _ = _ _ _** | ☐ Oui ☐ Non |
 
 ---
 
@@ -299,10 +297,7 @@ Pour chaque solution S1 à S5, réalisez :
 |   9   | Transvaser dans un bécher de 100 mL                                    | ☐ |
 |   10  | Étiqueter (S1, S2... avec la concentration correspondante)             | ☐ |
 
-<p align="center">
-  <img src="/images/protocole_dilution.png" alt="Protocole de dilution" width="95%">
-  <br><em>Protocole de dilution (solutions filles)</em>
-</p>
+![Protocole de dilution](protocole_dilution.png)
 
 ---
 
@@ -405,7 +400,7 @@ La lotion inconnue a une couleur qui se situe :
 D'après votre observation :
 
 $$
-......... < C_{\text{inconnue}} < .........\ \text{g/L}
+.........\ \text{g/L} < C_{\text{inconnue}} < .........\ \text{g/L}
 $$
 
 ### Étape 2 – Estimation
