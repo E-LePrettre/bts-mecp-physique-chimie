@@ -19,5 +19,8 @@ options: {
 };
 
 document$.subscribe(() => {
-MathJax.typesetPromise()
+  MathJax.startup.output.clearCache()
+  MathJax.typesetClear()
+  MathJax.texReset()
+  MathJax.typesetPromise()
 })
