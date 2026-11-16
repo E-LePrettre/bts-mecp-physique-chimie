@@ -125,8 +125,8 @@ $$E = x_{max} - x_{min}$$
 
 #### Écart à une valeur de référence
 
-- **Écart absolu** : $$\Delta = |x - x_{ref}|$$
-- **Écart relatif** (en %) : $$\varepsilon_r = \frac{|x - x_{ref}|}{x_{ref}} \times 100$$
+- **Écart absolu** : $\Delta = |x - x_{ref}|$
+- **Écart relatif** (en %) : $\varepsilon_r$ = $\frac{|x - x_{ref}|}{x_{ref}} \times 100$
 
 **En contrôle qualité**, on compare souvent :
 
@@ -397,15 +397,18 @@ Un histogramme permet de visualiser la **distribution** des mesures.
 
 **Exemple :** Mesures de pH sur 20 échantillons
 
-```
+```text
 Nombre de mesures
-     │
-   8 │       ████
-   6 │    ████████
-   4 │ ████████████
-   2 │ ████████████████
-   0 └─┴──┴──┴──┴──┴──┴──► pH
-     5,0 5,5 6,0 6,5 7,0 7,5
+ 8 │           ███
+ 7 │           ███
+ 6 │           ███
+ 5 │           ███
+ 4 │      ███  ███  ███
+ 3 │      ███  ███  ███
+ 2 │ ███  ███  ███  ███  ███
+ 1 │ ███  ███  ███  ███  ███
+ 0 └───────────────────────────► pH
+     5,0  5,5  6,0  6,5  7,0
 ```
 
 **Interprétation :**
@@ -432,12 +435,12 @@ Rédigez un **court paragraphe** expliquant comment vérifier la cohérence d'un
 
 - La vérification par les unités
 - La comparaison aux ordres de grandeur
-- L'analyse d'une série de mesures (moyenne, écart-type)
+- L'analyse d'une série de mesures (moyenne, étendue)
 - La décision finale (valider, rejeter, refaire)
 
 **Mots obligatoires à placer :**
 
-*unité – ordre de grandeur – moyenne – écart-type – aberrant – cohérent – valider*
+*unité – ordre de grandeur – moyenne – étendue – aberrant – cohérent – valider*
 
 <br><br><br><br><br><br><br>
 
